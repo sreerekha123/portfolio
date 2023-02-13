@@ -1,0 +1,111 @@
+/* html{
+    display: block;
+}
+head{
+    display: none;
+} */
+
+/* *{
+    margin:0;
+    padding: 0;
+} */
+body {
+        background-color: #ffebc9;
+        margin: 0;
+        color: #402218;
+    }
+    .nav {
+        background-color: #c68b59;
+        width: 100%;
+        height: 20px;
+        text-align: center;
+        font-family: "Montserrat", sans-serif;
+        font-weight: bold;
+        position: sticky;
+        top: 0px;
+    }
+    .coffee-head {
+        text-align: center;
+        font-size: 50px;
+        font-family: "Montserrat", sans-serif;
+        margin: 10px 0 0;
+    }
+    
+    .health {
+        border: 2px solid #402218;
+        display: inline-block;
+        height: 190px;
+        width: 500px;
+        position: relative;
+        left: 350px;
+        text-align: justify;
+        word-spacing: 5px;
+        padding: 20px 30px 40px;
+        font-family: "Merriweather", serif;
+    }
+    p {
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }    
+    .help {
+        background-color: #c68b59;
+        height: 75px;
+        width: 75px;
+        position: fixed;
+        top: 250px;
+        right: 1px;
+        border-radius: 50%;
+    }
+    
+    .types {
+        font-family: "Permanent Marker", cursive;
+        text-align: center;
+        font-size: 40px;
+        margin-top: 30px;
+    }
+    /* .ptypes{
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+
+    } */
+    h2 {
+        margin: 0px;
+    }
+    p {
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
+    ul {
+        display: block;
+        list-style-type: disc;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        padding-inline-start: 40px;
+    }
+    .brand {
+        width: 50%;
+        margin: auto;
+        text-align: left;
+        line-height: 1.75;
+        text-align: justify;
+    }
+    div {
+        display: block;
+    }
+    .brands {
+        font-family: "Merriweather", serif;
+    }
+    div {
+        display: block;
+    }
